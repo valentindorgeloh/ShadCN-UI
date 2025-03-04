@@ -38,9 +38,12 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "chalk": "^5.4.1"
+    "chalk": "^5.4.1",
+    "esbuild": "0.25.0",
+    "sharp": "0.33.5",
+    "vite": "6.2.0"
   },
   "devDependencies": {
-    "tsup": "^6.6.3"
+    "tsup": "^8.4.0"
   }
 }
